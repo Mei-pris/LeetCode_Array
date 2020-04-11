@@ -36,5 +36,8 @@
     <ClCompile Include="YanghuiTriangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Realize_strStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
